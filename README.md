@@ -1,2 +1,5 @@
 # Rainbow-Poem
-Poetry was never my forte 
+Poetry has never been my forte,
+Roses are red
+Violets are blue
+I arrived fashionably late
